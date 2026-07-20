@@ -1,0 +1,28 @@
+{
+  "contentVersion": 1,
+  "minimumAppVersion": 1,
+  "latestAppVersion": 1,
+
+  "modules": {
+    "recipes": {
+      "version": 1,
+      "file": "modules/recipes.json"
+    },
+    "materials": {
+      "version": 1,
+      "file": "modules/materials.json"
+    },
+    "configs": {
+      "version": 1,
+      "file": "modules/configs.json"
+    },
+    "news": {
+      "version": 1,
+      "file": "modules/news.json"
+    },
+    "assets": {
+      "version": 1,
+      "file": "modules/assets.json"
+    }
+  }
+}
