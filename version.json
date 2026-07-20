@@ -1,0 +1,13 @@
+{
+  "contentVersion": 1,
+  "minimumAppVersion": 1,
+  "latestAppVersion": 1,
+
+  "modules": {
+    "recipes": 1,
+    "materials": 1,
+    "configs": 1,
+    "news": 1,
+    "assets": 1
+  }
+}
