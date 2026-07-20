@@ -5,7 +5,7 @@
   "modules": {
     "recipes": {
       "version": 1,
-      "path": "modules/recipes/"
+      "file": "modules/recipes.json"
     },
     "materials": {
       "version": 1,
