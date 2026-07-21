@@ -3,7 +3,7 @@
     "id": "butter",
     "name": "Butter",
     "levelRequired": 1,
-    "xpGiven": 10.0,
+    "xpGiven": 10,
     "isIntermediate": false,
     "materials": {
       "milk": 2
@@ -13,7 +13,7 @@
     "id": "roasted_corn",
     "name": "Roasted Corn",
     "levelRequired": 1,
-    "xpGiven": 52.0,
+    "xpGiven": 52,
     "isIntermediate": false,
     "materials": {
       "corn": 1,
@@ -24,7 +24,7 @@
     "id": "roasted_potato",
     "name": "Roasted Potato",
     "levelRequired": 1,
-    "xpGiven": 52.0,
+    "xpGiven": 52,
     "isIntermediate": false,
     "materials": {
       "potato": 1,
@@ -35,7 +35,7 @@
     "id": "carrot_soup",
     "name": "Carrot Soup",
     "levelRequired": 4,
-    "xpGiven": 124.0,
+    "xpGiven": 124,
     "isIntermediate": false,
     "materials": {
       "carrot": 2,
@@ -47,7 +47,7 @@
     "id": "omlette",
     "name": "Omlette",
     "levelRequired": 4,
-    "xpGiven": 124.0,
+    "xpGiven": 124,
     "isIntermediate": false,
     "materials": {
       "egg": 2,
@@ -58,7 +58,7 @@
     "id": "tomato_soup",
     "name": "Tomato Soup",
     "levelRequired": 4,
-    "xpGiven": 124.0,
+    "xpGiven": 124,
     "isIntermediate": false,
     "materials": {
       "tomato": 2,
@@ -66,11 +66,21 @@
       "milk": 1
     }
   },
-{
+  {
+    "id": "A",
+    "name": "A",
+    "levelRequired": 10,
+    "xpGiven": 166,
+    "isIntermediate": false,
+    "materials": {
+      "Egg": 1
+    }
+  },
+  {
     "id": "Asparagaus_with_poached_egg",
     "name": "Asparagaus with Poached Egg",
     "levelRequired": 10,
-    "xpGiven": 166.0,
+    "xpGiven": 166,
     "isIntermediate": false,
     "materials": {
       "asparagaus": 2,
