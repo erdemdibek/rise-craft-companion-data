@@ -78,5 +78,17 @@
       "Cooking Pot": 1,
       "Egg": 1
     }
+  },
+  {
+    "id": "baked_bonşto",
+    "name": "Baked Bonito",
+    "levelRequired": 10,
+    "xpGiven": 166,
+    "isIntermediate": false,
+    "materials": {
+      "Bonito": 4,
+      "Cooking Pot": 1,
+      "Onion": 2
+    }
   }
 ]
