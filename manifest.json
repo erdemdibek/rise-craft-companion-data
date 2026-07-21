@@ -1,10 +1,10 @@
 {
-  "contentVersion": 2,
+  "contentVersion": 3,
   "minimumAppVersion": 1,
   "latestAppVersion": 1,
   "modules": {
     "recipes": {
-      "version": 4,
+      "version": 5,
       "path": "modules/recipes/"
     },
     "materials": {
