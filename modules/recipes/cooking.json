@@ -65,28 +65,5 @@
       "water": 1,
       "milk": 1
     }
-  },
-  {
-    "id": "A",
-    "name": "A",
-    "levelRequired": 10,
-    "xpGiven": 166,
-    "isIntermediate": false,
-    "materials": {
-      "Egg": 1
-    }
-  },
-  {
-    "id": "Asparagaus_with_poached_egg",
-    "name": "Asparagaus with Poached Egg",
-    "levelRequired": 10,
-    "xpGiven": 166,
-    "isIntermediate": false,
-    "materials": {
-      "asparagaus": 2,
-      "egg": 1,
-      "butter": 1,
-      "cooking pot": 1
-    }
   }
 ]
