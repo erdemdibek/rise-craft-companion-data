@@ -1,7 +1,7 @@
 [
   {
     "id": "small_mp_recovery_mana_potion",
-    "name": "Small MP Recovery / Mana Potion",
+    "name": "Small MP Recovery / Mana",
     "levelRequired": 1,
     "xpGiven": 390.0,
     "isIntermediate": false,
@@ -46,7 +46,7 @@
   },
   {
     "id": "medium_hp_recovery_health_potion",
-    "name": "Medium HP Recovery / Health Potion",
+    "name": "Medium HP Recovery / Health",
     "levelRequired": 8,
     "xpGiven": 1300.0,
     "isIntermediate": false,
@@ -58,7 +58,7 @@
   },
   {
     "id": "medium_mp_recovery_mana_potion",
-    "name": "Medium MP Recovery / Mana Potion",
+    "name": "Medium MP Recovery / Mana",
     "levelRequired": 8,
     "xpGiven": 1300.0,
     "isIntermediate": false,
