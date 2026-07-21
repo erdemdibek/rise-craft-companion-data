@@ -65,7 +65,7 @@
       "water": 1,
       "milk": 1
     }
-  }
+  },
 {
     "id": "Asparagaus_with_poached_egg",
     "name": "Asparagaus with Poached Egg",
@@ -76,7 +76,7 @@
       "asparagaus": 2,
       "egg": 1,
       "butter": 1,
-      "cooking pot" 1
+      "cooking pot": 1
     }
   }
 ]
