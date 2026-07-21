@@ -65,5 +65,18 @@
       "water": 1,
       "milk": 1
     }
+  },
+  {
+    "id": "asparagus",
+    "name": "Asparagus with Poached Egg",
+    "levelRequired": 10,
+    "xpGiven": 166,
+    "isIntermediate": false,
+    "materials": {
+      "Aspargus": 2,
+      "Butter": 1,
+      "Cooking Pot": 1,
+      "Egg": 1
+    }
   }
 ]
