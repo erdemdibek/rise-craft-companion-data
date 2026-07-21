@@ -1,0 +1,32 @@
+[
+  {
+    "id": "stone_block",
+    "name": "Stone Block",
+    "levelRequired": 1,
+    "xpGiven": 260.0,
+    "isIntermediate": false,
+    "materials": {
+      "rough_stone": 5
+    }
+  },
+  {
+    "id": "marble_block",
+    "name": "Marble Block",
+    "levelRequired": 20,
+    "xpGiven": 1560.0,
+    "isIntermediate": false,
+    "materials": {
+      "marble": 5
+    }
+  },
+  {
+    "id": "granite_block",
+    "name": "Granite Block",
+    "levelRequired": 30,
+    "xpGiven": 7800.0,
+    "isIntermediate": false,
+    "materials": {
+      "granite": 5
+    }
+  }
+]
