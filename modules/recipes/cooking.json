@@ -16,8 +16,9 @@
     "xpGiven": 52,
     "isIntermediate": false,
     "materials": {
-      "corn": 1,
-      "salt": 1
+      "Corn": 4,
+      "Butter": 1,
+      "Cooking Pot": 1
     }
   },
   {
