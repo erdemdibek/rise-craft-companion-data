@@ -67,7 +67,7 @@
     }
   },
   {
-    "id": "asparagus",
+    "id": "asparagus_with_poached_egg",
     "name": "Asparagus with Poached Egg",
     "levelRequired": 10,
     "xpGiven": 166,
@@ -80,7 +80,7 @@
     }
   },
   {
-    "id": "baked_bonşto",
+    "id": "baked_bonito",
     "name": "Baked Bonito",
     "levelRequired": 10,
     "xpGiven": 166,
@@ -92,7 +92,7 @@
     }
   },
   {
-    "id": "deneme",
+    "id": "salmon_steak",
     "name": "Salmon Steak",
     "levelRequired": 10,
     "xpGiven": 166,
