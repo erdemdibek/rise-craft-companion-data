@@ -28,8 +28,9 @@
     "xpGiven": 52,
     "isIntermediate": false,
     "materials": {
-      "potato": 1,
-      "butter": 1
+      "Potato": 4,
+      "Butter": 1,
+      "Cooking Pot": 1
     }
   },
   {
@@ -39,9 +40,10 @@
     "xpGiven": 124,
     "isIntermediate": false,
     "materials": {
-      "carrot": 2,
-      "water": 1,
-      "salt": 1
+      "Carrot": 4,
+      "Cooking Pot": 1,
+      "Butter": 1,
+      "Milk": 1
     }
   },
   {
@@ -51,8 +53,9 @@
     "xpGiven": 124,
     "isIntermediate": false,
     "materials": {
-      "egg": 2,
-      "butter": 1
+      "Egg": 4,
+      "Butter": 1,
+      "Cooking Pot": 1
     }
   },
   {
@@ -62,9 +65,10 @@
     "xpGiven": 124,
     "isIntermediate": false,
     "materials": {
-      "tomato": 2,
-      "water": 1,
-      "milk": 1
+      "Tomato": 4,
+      "Butter": 1,
+      "Milk": 1,
+      "Cooking Pot": 1
     }
   },
   {
