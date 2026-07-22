@@ -3,7 +3,7 @@
     "id": "long_handled_sickle",
     "name": "Long Handled Sickle",
     "levelRequired": 2,
-    "xpGiven": 100,
+    "xpGiven": 0,
     "isIntermediate": false,
     "materials": {
       "Oak Plank": 2,
