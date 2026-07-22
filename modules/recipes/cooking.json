@@ -90,5 +90,15 @@
       "Cooking Pot": 1,
       "Onion": 2
     }
+  },
+  {
+    "id": "deneme",
+    "name": "Deneme",
+    "levelRequired": 10,
+    "xpGiven": 200,
+    "isIntermediate": false,
+    "materials": {
+      "egg": 1
+    }
   }
 ]
