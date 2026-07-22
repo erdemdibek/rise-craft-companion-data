@@ -93,12 +93,14 @@
   },
   {
     "id": "deneme",
-    "name": "Deneme",
+    "name": "Salmon Steak",
     "levelRequired": 10,
-    "xpGiven": 200,
+    "xpGiven": 166,
     "isIntermediate": false,
     "materials": {
-      "egg": 1
+      "Cooking Pot": 1,
+      "Onion": 2,
+      "Salmon": 4
     }
   }
 ]
