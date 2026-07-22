@@ -3,7 +3,7 @@
     "id": "long_handled_sickle",
     "name": "Long Handled Sickle",
     "levelRequired": 2,
-    "xpGiven": 0,
+    "xpGiven": 100,
     "isIntermediate": false,
     "materials": {
       "Oak Plank": 2,
@@ -14,7 +14,7 @@
     "id": "rare_fishing",
     "name": "Rare Fishing Rod",
     "levelRequired": 16,
-    "xpGiven": 0,
+    "xpGiven": 100,
     "isIntermediate": false,
     "materials": {
       "Pine Plank": 12,
