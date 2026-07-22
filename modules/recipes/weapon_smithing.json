@@ -9,5 +9,17 @@
       "Oak Plank": 2,
       "Copper Stick": 2
     }
+  },
+  {
+    "id": "rare_fishing",
+    "name": "Rare Fishing Rod",
+    "levelRequired": 16,
+    "xpGiven": 0,
+    "isIntermediate": false,
+    "materials": {
+      "Pine Plank": 12,
+      "Iron Plate": 16,
+      "Holy Tree": 4
+    }
   }
 ]
